@@ -1,0 +1,206 @@
+#subnav {
+	height: 20px;
+	padding-bottom: 20px;
+	padding-top: 3px;
+	background-image: url(images/service_bkgrd.jpg);
+	background-repeat: no-repeat;
+	
+}
+#subnav_services_services a:link {
+	text-decoration: none;
+	color: #FFFFFF;
+	font-size: 11px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#subnav_services_services a:visited {
+	text-decoration: none;
+	color: #FFFFFF;
+	font-size: 11px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#subnav_services_services a:hover {
+	text-decoration: underline;
+	color: #FFFFFF;
+	font-size: 11px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#subnav_services_services a:active {
+	text-decoration: underline;
+	color: #FFFFFF;
+	font-size: 11px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#subnav_services_services {
+	float: left;
+	padding-right: 10px;
+	padding-left: 21px;
+}
+#subnav_services_servicesCurrent {
+	float: left;
+	padding-right: 10px;
+	padding-left: 5px;
+	
+}
+#subnav_services_servicesCurrent a:link {	
+	text-decoration: underline;
+	color: #FFFFFF;
+	font-size: 11px;
+	font-family: Arial, Helvetica, sans-serif;
+	
+}
+#subnav_services_servicesCurrent a:visited {	
+	text-decoration: underline;
+	color: #FFFFFF;
+	font-size: 11px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#subnav_services_servicesCurrent a:hover {	
+	text-decoration: underline;
+	color: #FFFFFF;
+	font-size: 11px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#subnav_services_servicesCurrent a:active {	
+	text-decoration: underline;
+	color: #FFFFFF;
+	font-size: 11px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+
+#subnav_services_expect {
+	float: left;
+	padding-right: 10px;
+	padding-left: 16px;
+}
+
+#subnav_services_expect a:link {	
+	text-decoration: none;
+	color: #FFFFFF;
+	font-size: 11px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#subnav_services_expect a:visited {	
+	text-decoration: none;
+	color: #FFFFFF;
+	font-size: 11px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#subnav_services_expect a:hover {	
+	text-decoration: underline;
+	color: #FFFFFF;
+	font-size: 11px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#subnav_services_expect a:active {	
+	text-decoration: underline;
+	color: #FFFFFF;
+	font-size: 11px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#subnav_services_expectCurrent {
+	float: left;
+	padding-right: 10px;
+}
+#subnav_services_expectCurrent a:link {	
+	text-decoration: underline;
+	color: #FFFFFF;
+	font-size: 11px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#subnav_services_expectCurrent a:visited {	
+	text-decoration: underline;
+	color: #FFFFFF;
+	font-size: 11px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#subnav_services_expectCurrent a:hover {	
+	text-decoration: underline;
+	color: #FFFFFF;
+	font-size: 11px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#subnav_services_expectCurrent a:active {	
+	text-decoration: underline;
+	color: #FFFFFF;
+	font-size: 11px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#subnav_services_treatment a:link {	
+	text-decoration: none;
+	color: #FFFFFF;
+	font-size: 11px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#subnav_services_treatment a:visited {	
+	text-decoration: none;
+	color: #FFFFFF;
+	font-size: 11px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#subnav_services_treatment a:hover {	
+	text-decoration: underline;
+	color: #FFFFFF;
+	font-size: 11px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#subnav_services_treatment a:active {	
+	text-decoration: underline;
+	color: #FFFFFF;
+	font-size: 11px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#subnav_services_treatmentCurrent {
+	float: left;
+	padding-right: 20px;
+}
+#subnav_services_treatmentCurrent a:link {	
+	text-decoration: underline;
+	color: #FFFFFF;
+	font-size: 11px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#subnav_services_treatmentCurrent a:visited {	
+	text-decoration: underline;
+	color: #FFFFFF;
+	font-size: 11px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#subnav_services_treatmentCurrent a:hover {	
+	text-decoration: underline;
+	color: #FFFFFF;
+	font-size: 11px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#subnav_services_treatmentCurrent a:active {	
+	text-decoration: underline;
+	color: #FFFFFF;
+	font-size: 11px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#thumbs {
+	height: 260px;
+}
+#thumbs_images {
+	float: left;
+	width: 97px;
+	height: 87px;
+	padding-right: 2px;
+	padding-bottom: 2px;
+}
+#main_photo {
+	padding-left: 30px;
+	height: 335px;
+}
+#caption {
+	padding-bottom: 10px;
+	padding-top: 5px;
+	text-align: center;
+}
